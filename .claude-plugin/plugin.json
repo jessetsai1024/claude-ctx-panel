@@ -1,0 +1,6 @@
+{
+  "name": "ctx-panel",
+  "version": "0.1.0",
+  "description": "側邊欄的 context 用量面板：總量、分類、每輪成長、最佔地方的前幾名、快取、Claude 現在在做什麼。/ctx 開或關",
+  "author": { "name": "Jesse & 螢" }
+}

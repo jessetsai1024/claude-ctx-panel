@@ -1,0 +1,22 @@
+{
+  "name": "claude-ctx-panel",
+  "description": "側邊欄的 context 用量面板：總量、分類、每輪成長、最佔地方的前幾名、快取、Claude 現在在做什麼。/ctx 開或關",
+  "owner": {
+    "name": "Jesse",
+    "url": "https://github.com/jessetsai1024"
+  },
+  "plugins": [
+    {
+      "name": "ctx-panel",
+      "source": "./",
+      "description": "側邊欄的 context 用量面板：總量、分類、每輪成長、最佔地方的前幾名、快取、Claude 現在在做什麼。/ctx 開或關",
+      "category": "productivity",
+      "tags": [
+        "mod",
+        "terminal",
+        "pane",
+        "claude-code"
+      ]
+    }
+  ]
+}
